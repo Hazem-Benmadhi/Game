@@ -1,2 +1,2 @@
-# test
+# Initial Game
 testing different concept
