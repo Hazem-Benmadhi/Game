@@ -1,0 +1,2 @@
+# Game
+Maze Word Game
