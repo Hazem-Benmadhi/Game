@@ -1,2 +1,2 @@
-# Initial Game
-testing different concept
+# Initial Game Version
+Maze Word Game
