@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\code-zero-tow\Desktop\Word_Mayse_Game\Word_Mayse_Game\main.c(36,11): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\code-zero-tow\Desktop\Word_Mayse_Game\Word_Mayse_Game\main.c(160,42): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\code-zero-tow\Desktop\Word_Mayse_Game\Word_Mayse_Game\main.c(161,61): warning C4048: different array subscripts: 'char (*)[20]' and 'char (*)[100][20]'
+C:\Users\code-zero-tow\Desktop\Word_Mayse_Game\Word_Mayse_Game\main.c(400,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\code-zero-tow\Desktop\Word_Mayse_Game\Word_Mayse_Game\main.c(403,17): warning C4013: 'strcpy_s' undefined; assuming extern returning int
+C:\Users\code-zero-tow\Desktop\Word_Mayse_Game\Word_Mayse_Game\main.c(597,21): warning C4013: 'strcat_s' undefined; assuming extern returning int
+  Word_Mayse_Game.vcxproj -> C:\Users\code-zero-tow\Desktop\Word_Mayse_Game\x64\Debug\Word_Mayse_Game.exe
+          1 file(s) copied.
+          1 file(s) copied.
